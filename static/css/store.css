@@ -1,0 +1,6 @@
+.card:hover{
+    box-shadow: 30px 30px 80px -44px #000;
+    transition: .5s ease-in-out;
+    cursor: pointer;
+}
+
